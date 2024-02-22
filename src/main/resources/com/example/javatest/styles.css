@@ -1,0 +1,46 @@
+
+
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+.main-container {
+    -fx-background-color: white; /* Cor de fundo do contêiner */
+    -fx-background-radius: 10px; /* Raio de borda (altere conforme necessário) */
+}
+
+
+.input-field, .add-button, .toggle-button, .remove-button {
+    -fx-font-size: 14px;
+}
+
+.input-field {
+    -fx-prompt-text-fill: #888;
+    -fx-background-color: #fff;
+    -fx-padding: 8px;
+    -fx-pref-width: 200px;
+    -fx-border-width: 2;
+    -fx-border-color: #7f3e98;
+    -fx-border-radius: 5;
+}
+
+.add-button, .toggle-button, .remove-button {
+    -fx-background-color: #7f3e98;
+    -fx-text-fill: white;
+    -fx-padding: 8px 16px;
+    -fx-cursor: hand;
+    -fx-font-weight: bold;
+}
+
+.add-button:hover, .toggle-button:hover, .remove-button:hover {
+    -fx-background-color: #a867c1;
+}
+
+.todo-list {
+    -fx-background-color: #fff;
+    -fx-padding: 10px;
+}
+
+.list-cell:odd {
+    -fx-background-color: #f2f2f2;
+}
