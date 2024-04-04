@@ -17,7 +17,7 @@ Este é um aplicativo de lista de tarefas simples desenvolvido em JavaFX. Ele pe
 
 ## Preview
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/933499827638124575/1210261297136934942/image.png?ex=65e9eaaa&is=65d775aa&hm=de51865e4b85cdceb3209211f6cda937da56bbdd0407a2ad1849b0f7f9921294" alt="Descrição da imagem" width="300px">
+    <img src="https://media.discordapp.net/attachments/933499827638124575/1225506522881200170/image.png?ex=662160e3&is=660eebe3&hm=d9d25f15c297da48291dd51f457fec41badefe81f297ad1a23af51e29c09fe84&=&format=webp&quality=lossless&width=447&height=671" alt="Descrição da imagem" width="300px">
 </p>
 
 
